@@ -1,0 +1,3 @@
+- matchMedia((mediaQueryString)):
+=> The matchMedia() method returns a MediaQueryList with the results from the query.
+Warning: don't forget to type the value of the parameter inside () like this ("(min-width: 768px)").
